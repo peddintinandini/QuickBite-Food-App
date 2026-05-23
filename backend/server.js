@@ -36,5 +36,3 @@ app.get("/",(req,res)=>{
 app.listen(port,()=>{
     console.log(`Server satrted on http://localhost:${port}`)
 })
-
-// mongodb+srv://peddintinandini1:Nandu2973@fooddel.z7zf9lo.mongodb.net/?appName=fooddel
